@@ -24,7 +24,7 @@ DineMaster is a Java Spring Boot backend project for managing restaurant and che
 ## Project Structure
 
 ```text
-03.DineMaster/
+DineMaster/
 ├── dinemaster/
 │   ├── controller/
 │   │   ├── ChefController.java
